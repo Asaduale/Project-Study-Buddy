@@ -18,12 +18,6 @@ npm run start
 
 # Authors and Acknowledgements
 Ahmad Fakhry <br>
-Elhan Syed <br>
 Shaun Aranha <br>
-Osama Hafez <br>
 Asad Du'ale Ali <br>
-Gagandeep Bhangal <br>
-Anthony Chu <br>
 
-# License
-[MIT](https://choosealicense.com/licenses/mit/)
